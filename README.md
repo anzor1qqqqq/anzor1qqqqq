@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anzor</h1>
 <h3 align="center">frontend developer</h3>
 
-[![anzor1qqqqq's GitHub | Languages Over Time](https://stats.quine.sh/anzor1qqqqq/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anzor1qqqqq)
-[![anzor1qqqqq's GitHub | Topics Over Time](https://stats.quine.sh/anzor1qqqqq/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anzor1qqqqq)
 [![anzor1qqqqq's GitHub | Stats](https://stats.quine.sh/anzor1qqqqq/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anzor1qqqqq)
 
 <h3 align="left">Languages and Tools:</h3>
